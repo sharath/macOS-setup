@@ -34,6 +34,7 @@ brew cask install discord
 # non-programming
 brew cask install steam
 brew cask install google-chrome
+brew cask install filezilla
  
 # environments
 brew cask install virtualbox
